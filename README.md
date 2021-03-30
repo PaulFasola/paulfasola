@@ -15,6 +15,8 @@ At work, I speak
 ![Docker](https://img.shields.io/badge/-Docker-/?style=flat-square&logo=docker&logoColor=FFF&color=2391e6)
 ![Powershell](https://img.shields.io/badge/-Powershell-/?style=flat-square&logo=powershell&logoColor=FFF&color=012456)
 
+:page_facing_up: Here's [my resume](https://github.com/PaulFasola/paulfasola/raw/main/FASOLA_Paul_en_US.pdf)
+
 I don't even know if it's worth it to mention these obvious skills to that README, but, eh.  
 ![HTML5](https://img.shields.io/badge/-HTML5-/?style=flat-square&logo=html5&logoColor=FFF)
 ![SASS](https://img.shields.io/badge/-SASS-/?style=flat-square&logo=sass&logoColor=FFF&color=c76395)
