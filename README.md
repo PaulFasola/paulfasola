@@ -45,7 +45,7 @@ Beyond that, I strive to learn a new thing on a daily basis (not necessarily tec
 	- [The Tyranny of Metrics](https://www.goodreads.com/book/show/36644895-the-tyranny-of-metrics) by Jerry Z. Muller, 
 	- [The Wealthy Barber](https://en.wikipedia.org/wiki/The_Wealthy_Barber) by David Chilton
 	- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick P. Brooks Jr.
-- :e-mail: How to reach me: send me a message
+- :e-mail: How to reach me: <a href="mailto:me@paulfasola.fr">send me an email!</a>
 - :exclamation: Not into "we have a ping pong table!" or consulting companies
 - :airplane: Traveler (I also jump from them from time to time)
 - :sushi: Fanboy (humm... sushi :drooling_face:)
