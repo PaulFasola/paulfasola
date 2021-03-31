@@ -24,7 +24,7 @@ I don't even know if it's worth it to mention these obvious skills to that READM
 
 I'm learning:
 - Redux (w/ Saga), the advanced parts
-- Solidity, stopped a v0.5, upgrading knowledge to v0.7+
+- Solidity, stopped somewhere v0.5, upgrading knowledge to v0.7+
 - A bit of Go as I need a lightning fast backend language for a project
 
 Beyond that, I strive to learn a new thing on a daily basis (not necessarily tech related, like, today (hum, check the commit date :P) was about Dollar-Cost Averaging strategies and how to make empanadas)  
