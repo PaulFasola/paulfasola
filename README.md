@@ -17,15 +17,16 @@ At work, I speak
 
 :page_facing_up: Here's [my resume](https://github.com/PaulFasola/paulfasola/raw/main/FASOLA_Paul_en_US.pdf)
 
-I don't even know if it's worth it to mention these obvious skills to that README, but, eh.  
+I don't even know if it's worth it mentioning these obvious skills to that README, but, eh.  
 ![HTML5](https://img.shields.io/badge/-HTML5-/?style=flat-square&logo=html5&logoColor=FFF)
 ![SASS](https://img.shields.io/badge/-SASS-/?style=flat-square&logo=sass&logoColor=FFF&color=c76395)
-![i18n](https://img.shields.io/badge/-i18n-/?style=flat-square&logoColor=FFF&color=8d9a36)
+![a11y](https://img.shields.io/badge/-a11y-/?style=flat-square&logoColor=FFF&color=8d9a36)
 
 I'm learning:
-- Redux (w/ Saga), the advanced parts
-- Solidity, stopped somewhere v0.5, upgrading knowledge to v0.7+
-- A bit of Go as I need a lightning fast backend language for a project
+- [Redux](https://redux.js.org) (w/ [Saga](https://redux-saga.js.org/)), the advanced concepts
+- [Solidity](https://docs.soliditylang.org/en/v0.7.4), stopped somewhere around v0.5, upgrading knowledge to v0.7+
+- A bit of [Go](https://golang.org) as I need a lightning fast backend language for a project
+- [GraphQL](https://graphql.org)
 
 Beyond that, I strive to learn a new thing on a daily basis (not necessarily tech related, like, today (hum, check the commit date :P) was about Dollar-Cost Averaging strategies and how to make empanadas)  
 <br />
@@ -47,7 +48,7 @@ Beyond that, I strive to learn a new thing on a daily basis (not necessarily tec
 	- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick P. Brooks Jr.
 - :e-mail: How to reach me: <a href="mailto:me@paulfasola.fr">send me an email!</a>
 - :exclamation: Not into "we have a ping pong table!" or consulting companies
-- :airplane: Traveler (I also jump from them from time to time)
+- :airplane: Traveler (I also jump from them from time to time 🪂)
 - :sushi: Fanboy (humm... sushi :drooling_face:)
 
 <br />
