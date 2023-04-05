@@ -1,5 +1,5 @@
-<h1 style="border: none; margin: 0;">Heya :mask:!</h1>
-<i>Please keep a 2 meters distance between yourself and this README</i>
+<h1 style="border: none; margin: 0;">👋 Salut</h1>
+<i>Please keep a 2 meters distance between yourself and this README 😷</i>
 <br/><br/>
 
 I'm **Paul**, a Front-End Developer working in Montreal, Canada, Earth
