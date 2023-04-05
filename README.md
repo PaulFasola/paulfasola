@@ -2,7 +2,7 @@
 <i>Please keep a 2 meters distance between yourself and this README</i>
 <br/><br/>
 
-I'm **Paul**, a Front-End Developer working in Montréal, Canada, Earth
+I'm **Paul**, a Front-End Developer working in Montreal, Canada, Earth
 
 On my free time, I'm actively contributing to several projects (mostly Blockchain related) using  
 ![React](https://img.shields.io/badge/-React-/?style=flat-square&logo=react&logoColor=FFF&color=purple)
@@ -12,26 +12,14 @@ On my free time, I'm actively contributing to several projects (mostly Blockchai
 At work, I speak  
 ![React](https://img.shields.io/badge/-React-/?style=flat-square&logo=react&logoColor=FFF&color=purple)
 ![TypeScript](https://img.shields.io/badge/-Typescript-/?style=flat-square&logo=javascript&logoColor=FFF&color=2f74c0)
-![Docker](https://img.shields.io/badge/-Docker-/?style=flat-square&logo=docker&logoColor=FFF&color=2391e6)
-![Powershell](https://img.shields.io/badge/-Powershell-/?style=flat-square&logo=powershell&logoColor=FFF&color=012456)
 
-:page_facing_up: Here's [my resume](https://github.com/PaulFasola/paulfasola/raw/main/FASOLA_Paul_en_US.pdf)
-
-I don't even know if it's worth it mentioning these obvious skills to that README, but, eh.  
-![HTML5](https://img.shields.io/badge/-HTML5-/?style=flat-square&logo=html5&logoColor=FFF)
-![SASS](https://img.shields.io/badge/-SASS-/?style=flat-square&logo=sass&logoColor=FFF&color=c76395)
-![a11y](https://img.shields.io/badge/-a11y-/?style=flat-square&logoColor=FFF&color=8d9a36)
+:page_facing_up: Here's [my resume](https://github.com/PaulFasola/paulfasola/raw/main/FASOLA_Paul_en_US.pdf
 
 I'm learning:
 - [Redux](https://redux.js.org) (w/ [Saga](https://redux-saga.js.org/)), the advanced concepts
 - [Solidity](https://docs.soliditylang.org/en/v0.7.4), stopped somewhere around v0.5, upgrading knowledge to v0.7+
 - A bit of [Go](https://golang.org) as I need a lightning fast backend language for a project
 - [GraphQL](https://graphql.org)
-
-Beyond that, I strive to learn a new thing on a daily basis (not necessarily tech related, like, today (hum, check the commit date :P) was about Dollar-Cost Averaging strategies and how to make empanadas)  
-<br />
-(yes I like parentheses)  
-(Ok, I stop)  
 
 <hr width="60%" />
 
@@ -47,7 +35,7 @@ Beyond that, I strive to learn a new thing on a daily basis (not necessarily tec
 	- [The Wealthy Barber](https://en.wikipedia.org/wiki/The_Wealthy_Barber) by David Chilton
 	- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick P. Brooks Jr.
 - :e-mail: How to reach me: <a href="mailto:me@paulfasola.fr">send me an email!</a>
-- :exclamation: Not into "we have a ping pong table!" or consulting companies
+- :exclamation: Not into "we have a ping pong table!" or consulting companies (very important)
 - :airplane: Traveler (I also jump from them from time to time 🪂)
 - :sushi: Fanboy (humm... sushi :drooling_face:)
 
