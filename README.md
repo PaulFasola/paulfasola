@@ -13,7 +13,7 @@ At work, I speak
 ![React](https://img.shields.io/badge/-React-/?style=flat-square&logo=react&logoColor=FFF&color=purple)
 ![TypeScript](https://img.shields.io/badge/-Typescript-/?style=flat-square&logo=javascript&logoColor=FFF&color=2f74c0)
 
-:page_facing_up: Here's [my resume](https://github.com/PaulFasola/paulfasola/raw/main/FASOLA_Paul_en_US.pdf
+:page_facing_up: Here's [my resume](https://github.com/PaulFasola/paulfasola/raw/main/FASOLA_Paul_en_US.pdf)
 
 I'm learning:
 - [Redux](https://redux.js.org) (w/ [Saga](https://redux-saga.js.org/)), the advanced concepts
