@@ -1,27 +1,24 @@
-<h1 style="border: none; margin: 0;">👋 Salut</h1>
-<i>Please keep a 2 meters distance between yourself and this README 😷</i>
+<h1 style="border: none; margin: 0;">👋 Bonjour</h1>
 <br/><br/>
 
 I'm **Paul**, a Front-End Developer working in Montreal, Canada, Earth
 
-On my free time, I'm actively contributing to several projects (mostly Blockchain related) using  
+Currently, I find myself at [Unity](https://unity.com/), where I play a pivotal role in shaping and building the Unity Gaming Services platform.   
+My daily mission: ensuring our end users are thrilled while creating an environment from which over 200+ internal developers are building on daily. My tasks range is as wide as the gaming world itself — from core R&D to streamlining time-to-ship processes and offering rapid to long-term support, almost like internal consulting.    
+![React](https://img.shields.io/badge/-React-/?style=flat-square&logo=react&logoColor=FFF&color=purple)
+![TypeScript](https://img.shields.io/badge/-Typescript-/?style=flat-square&logo=javascript&logoColor=FFF&color=2f74c0)
+
+On my free time, I'm contributing to several OSS projects (mostly decentralized/web3 related) using  
 ![React](https://img.shields.io/badge/-React-/?style=flat-square&logo=react&logoColor=FFF&color=purple)
 ![Solidity](https://img.shields.io/badge/-Solidity-/?style=flat-square&logo=solidity&logoColor=FFF&color=363636)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-/?style=flat-square&logo=drizzle&logoColor=FFF&color=592c84)
 
-At work, I speak  
-![React](https://img.shields.io/badge/-React-/?style=flat-square&logo=react&logoColor=FFF&color=purple)
-![TypeScript](https://img.shields.io/badge/-Typescript-/?style=flat-square&logo=javascript&logoColor=FFF&color=2f74c0)
-
 :page_facing_up: Here's [my resume](https://github.com/PaulFasola/paulfasola/raw/main/FASOLA_Paul_en_US.pdf)
 
 I'm learning:
-- [Redux](https://redux.js.org) (w/ [Saga](https://redux-saga.js.org/)), the advanced concepts
-- [Solidity](https://docs.soliditylang.org/en/v0.7.4), stopped somewhere around v0.5, upgrading knowledge to v0.7+
-- A bit of [Go](https://golang.org) as I need a lightning fast backend language for a project
-- [GraphQL](https://graphql.org)
+- [Go](https://go.dev/)
 
-<hr width="60%" />
+<hr width="50%" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulfasola&layout=compact&langs_count=8&exclude_repo=android_device_huawei_next,android_kernel_huawei_next,android_vendor_huawei_next,Attic"/>
 
@@ -35,9 +32,8 @@ I'm learning:
 	- [The Wealthy Barber](https://en.wikipedia.org/wiki/The_Wealthy_Barber) by David Chilton
 	- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick P. Brooks Jr.
 - :e-mail: How to reach me: <a href="mailto:me@paulfasola.fr">send me an email!</a>
-- :exclamation: Not into "we have a ping pong table!" or consulting companies (very important)
+- :exclamation: Not into "we have a ping pong table!" or consulting companies.<br />Please come share your passion for what you are building, the mission matters.
 - :airplane: Traveler (I also jump from them from time to time 🪂)
-- :sushi: Fanboy (humm... sushi :drooling_face:)
 
 <br />
 
