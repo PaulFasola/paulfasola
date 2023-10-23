@@ -3,7 +3,7 @@
 
 I'm **Paul**, a Front-End Developer working in Montreal, Canada, Earth
 
-Currently, I find myself at [Unity](https://unity.com/), where I play a pivotal role in shaping and building the Unity Gaming Services platform. My daily mission: ensuring our end users are thrilled while creating an environment from which over 200+ internal developers are building on daily. My tasks range is as wide as the gaming world itself — from core R&D to streamlining time-to-ship processes and offering rapid to long-term support, almost like internal consulting.    
+Currently, I find myself at [Unity](https://unity.com/), where I play a pivotal role in shaping and building the [Unity Gaming Services](https://dashboard.unity3d.com/) platform. My daily mission: ensuring our end users are thrilled while creating an environment from which over 200+ internal developers are building on daily. My tasks range is as wide as the gaming world itself — from core R&D to streamlining time-to-ship processes and offering rapid to long-term support, almost like internal consulting.    
 ![React](https://img.shields.io/badge/-React-/?style=flat-square&logo=react&logoColor=FFF&color=purple)
 ![TypeScript](https://img.shields.io/badge/-Typescript-/?style=flat-square&logo=javascript&logoColor=FFF&color=2f74c0)
 
